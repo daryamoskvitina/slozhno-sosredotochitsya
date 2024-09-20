@@ -3,21 +3,6 @@
   здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-
-:root.theme-dark {
-  --main-font: "IBM Plex mono";
-  --bg-color: #000028;
-  --text-color: #f1b2ce;
-  --accent-text-color: #000028;
-  --accent-color: #ff0070;
-  --bg-image: url(../images/cover-image-dark.png);
-  --logo-color: #db00ff;
-  --accent-logo-color: #ff0070;
-  --accent-link-color: #ff0070;
-  --accent-decor-color: #ff0070;
-  --hover-color: rgb(255, 0, 112, 0.4);
-}
-
 .page.theme_dark {
   --main-font: "IBM Plex mono";
   --bg-color: #000028;
