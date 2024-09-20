@@ -6,6 +6,7 @@
   background-color: var(--bg-color, #000028);
   min-inline-size: 375px;
   max-inline-size: 1024px;
+  background-attachment: fixed
 }
 
 .header {
