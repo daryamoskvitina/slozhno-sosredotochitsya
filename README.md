@@ -3,5 +3,5 @@
 Сайт возможно посмотреть с разных устройств, от мобильного телефона до компьютера.
 Был выбран подход Mobile First, то есть сначала созданы стили для самого маленького экрана, затем уточнены для более больших разрешений.
 
-Ссылка на репозиторий: SSH: git@github.com:daryamoskvitina/slozhno-sosredotochitsya.git
-HTTPS: https://github.com/daryamoskvitina/slozhno-sosredotochitsya.git
+Ссылка на репозиторий: HTTPS: https://github.com/daryamoskvitina/slozhno-sosredotochitsya.git
+SSH: git@github.com:daryamoskvitina/slozhno-sosredotochitsya.git
