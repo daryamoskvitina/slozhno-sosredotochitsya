@@ -1,12 +1,23 @@
-/*
-  Специально для светлой темы при наличии класса.
-  Здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
-
 .page.theme_light {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --main-font: "IBM Plex mono";
+  --bg-color: #fff1f7;
+  --text-color: #353430;
+  --accent-text-color: #353430;
+  --accent-color: #353430;
+  --bg-image: url(../images/cover-image-light.png);
+  --logo-color: #ffc2e6;
+  --accent-logo-color: #ff0070;
+  --accent-link-color: #ff8dcb;
+  --accent-decor-color: #ff8dcb;
+  --hover-color: rgb(50, 49, 45, 0.4);
+}
+
+.page.theme_light .header-recreation {
+  display: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .page.theme_auto .header-recreation {
+    display: none;
+  }
 }
