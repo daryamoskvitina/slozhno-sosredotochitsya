@@ -5,7 +5,7 @@
     --text-color: #f1b2ce;
     --accent-text-color: #000028;
     --accent-color: #ff0070;
-    --bg-image: url(../images/cover-image-dark.png);
+   /* --bg-image: url(../images/cover-image-dark.png); */
     --logo-color: #db00ff;
     --accent-logo-color: #ff0070;
     --accent-link-color: #ff0070;
@@ -22,7 +22,7 @@
     --text-color: #353430;
     --accent-text-color: #353430;
     --accent-color: #353430;
-    --bg-image: url(../images/cover-image-light.png);
+   /* --bg-image: url(../images/cover-image-light.png); */
     --logo-color: #ffc2e6;
     --accent-logo-color: #ff0070;
     --accent-link-color: #ff8dcb;
