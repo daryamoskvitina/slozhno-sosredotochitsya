@@ -1,5 +1,4 @@
 .page.theme_light {
-  --main-font: "IBM Plex mono";
   --bg-color: #fff1f7;
   --text-color: #353430;
   --accent-text-color: #353430;
@@ -14,10 +13,4 @@
 
 .page.theme_light .header-recreation {
   display: none;
-}
-
-@media (prefers-color-scheme: light) {
-  .page.theme_auto .header-recreation {
-    display: none;
-  }
 }

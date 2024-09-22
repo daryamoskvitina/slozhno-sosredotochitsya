@@ -4,7 +4,6 @@
   переключая тему
 */
 .page.theme_dark {
-  --main-font: "IBM Plex mono";
   --bg-color: #000028;
   --text-color: #f1b2ce;
   --accent-text-color: #000028;
