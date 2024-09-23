@@ -15,3 +15,18 @@
   --accent-decor-color: #ff0070;
   --hover-color: rgb(255, 0, 112, 0.4);
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #000028;
+    --text-color: #f1b2ce;
+    --accent-text-color: #000028;
+    --accent-color: #ff0070;
+    --bg-image: url(../images/cover-image-dark.png);
+    --logo-color: #db00ff;
+    --accent-logo-color: #ff0070;
+    --accent-link-color: #ff0070;
+    --accent-decor-color: #ff0070;
+    --hover-color: rgb(255, 0, 112, 0.4);
+  }
+}
