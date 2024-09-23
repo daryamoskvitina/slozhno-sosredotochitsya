@@ -1,4 +1,7 @@
 :root {
   --main-font: "IBM Plex mono";
-  
+  --gap-small: 10px;
+  --gap-medium: 20px;
+  --gap-large: 50px;
+  --gap-extralarge: 80px;
 }
